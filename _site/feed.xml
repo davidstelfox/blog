@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Stelfox</title>
+    <description>Blog where I am keeping track on my data visualisation journey. 
+</description>
+    <link>http://davidstelfox.github.io/blog/</link>
+    <atom:link href="http://davidstelfox.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 27 Dec 2015 16:52:41 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Dec 2015 16:52:41 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Make it work, make it clean, make it fast</title>
+        <description>&lt;p&gt;A couple of years ago I got interested in quantified self, the process of collecting data about yourself and looking for insights. One of the processes I set up was an IFTTT job which writes a line to a Google Spreadsheet each time I listen to a song on Spotify. I enjoy the Spotify Year in Music so decided that as I had collected the data I would put something together as a project. It’d be a good opportunity to practice publishing multiple parts to a single webpage and practicing some graphical layouts, something I often feel I struggle with.&lt;/p&gt;
+
+&lt;p&gt;While doing this I came across a problem I found difficult: multi-line charts in D3. This is something which is relatively straightforward to do in graphical charting tools I use like Excel or SSRS or Tableau but seems to be a larger jump in D3 to what I have done before. I kind of understand paths but looking through a few examples there were processes I was struggling to get my head around and was resorting to the slightly desparate method of copy/pasting segments of code and changing variable names in the hope this worked. Then I stopped and remembered a Tweet I had seen a while ago which struck a chord with me:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I’ve been repeating the principles on the right order of coding to myself lately:
+1. Make it work
+2. Make it clean
+3. Make it fast&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For me at this stage, the first point is the most important. It doesn’t matter if my code is super clean or fast, I am not writing production code, I am writing small web pages displaying charts. The harder concepts will come with time and practice, for now it is about publishing my work and learning, learning, learning. So working on this basis I made the code work; it is not clean, it might be fast but it works. Enough for now.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Dec 2015 00:00:00 +0000</pubDate>
+        <link>http://davidstelfox.github.io/blog/2015/12/27/Work-Clean-Fast.html</link>
+        <guid isPermaLink="true">http://davidstelfox.github.io/blog/2015/12/27/Work-Clean-Fast.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Imposter syndrome</title>
+        <description>&lt;p&gt;In a recent episode of the &lt;a href=&quot;http://podcast.steer.me/46/&quot;&gt;Steercast&lt;/a&gt;, &lt;a href=&quot;http://mikemcquaid.com/&quot;&gt;Mike McQuaid&lt;/a&gt;, an engineer at GitHub spoke about imposter syndrome being one of the main issues for people learning to code:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A really common thing is [the] concept of imposter syndrome. This concept that you feel like, “I’m out of place here, I don’t know what I’m doing and 
+actually I’m going to get found out, and when people find out, they’ll maybe at best laugh at me, at worst get me fired.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is something I can feel pretty badly when working on data visualisation. I came to coding pretty late without doing anything approaching this at university, more fell into it. I have also learned pretty much all I know in isolation. The internet is an amazing thing but it is also the worst thing. My Pocket and Medium bookmarks are full of articles of how people have developed things or how companies have implemented analytics stacks or somesuch but each time I look at these I am overcome with dread that I don’t know enough or that my (own percieved) lack of knowledge is going to make me look like a dick when I talk or interact with people. Recently I attended to London D3js meetup and it hit pretty hard, without talking to anyone I felt a real sense of anxiety that I was in a room full of experts who know so much more. Is this true? Maybe. Does it matter? Not so much.&lt;/p&gt;
+
+&lt;p&gt;Afterwards thinking about this over the course of the next year this should get better. The more I learn and develop, the less this anxiety should occur, right?! Let’s see. Each time imposter syndrome strikes I will add a note to the timeline (red dot). If my idea above is correct then the dots should become less frequent or not and then, shit, it is something I am going to have to get better at dealing with as Mike goes on to speak about in the podcast.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+        <link>http://davidstelfox.github.io/blog/2015/12/03/Imposter-Syndrome.html</link>
+        <guid isPermaLink="true">http://davidstelfox.github.io/blog/2015/12/03/Imposter-Syndrome.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The journey begins...</title>
+        <description>&lt;p&gt;For a few years now I have been playing aroud with data visualisation in my spare time, learning D3, dipping my toes into Processing and Tableau, reading articles and books with some vague future idea that one day I will change my career and work on this full time. But life gets in the way and soon you realise that you are spending a small fortune on sports channels and whiling away your free time watching German third division football.&lt;/p&gt;
+
+&lt;p&gt;Then a few weeks ago I watched &lt;a href=&quot;https://vimeo.com/113312415&quot;&gt;Santiago Ortiz’s talk at Eyeo in 2014&lt;/a&gt;. It kind of blew me away. In the talk he describes how he found himself without work but also in a position where he could devote six months full time to learning the things he felt he needed to get himself to a position where he could make a living from the work he loved. I was completely besotted with the idea and started to plan how I could do something similar. However, being of a slightly nervous nature I decided that leaving my job at a sustainability charity in London wasn’t really an option right now so pared back my plans somewhat. So I am going to spend the next 12 months deciding where I want to get to and how I am going to get there and getting there, and this blog is going to be a record of how I get on.&lt;/p&gt;
+
+&lt;p&gt;Another thing which really resonated with me recently was an interview I read with &lt;a href=&quot;http://www.brendandawes.com/&quot;&gt;Brendan Dawes&lt;/a&gt;, in &lt;a href=&quot;http://www.lars-mueller-publishers.com/en/thoughts-on-designing-information&quot;&gt;Thoughts on Designing Information&lt;/a&gt;, in which he says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;One of the reasons I try to make a lot of things is because I believe that it is important to practice the craft to become
+better at making things. The brain is a muscle: the more you exercise it the better it becomes. That is why I make a lot of 
+stuff… You have to take ideas from your sketchbook and execute the ones you like. Once you get them made, you have to publish 
+them. That is what the internet is all about: the ability to push things out there so people can see it and criticize it… We 
+like to play with stuff and see where it goes. Sometimes with no end goal in sight. We have done lots of experiments 
+without knowing how how we were going to use them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This approach really resonated with me, and if I was being generous I would say this was unknowingly how I was approaching this kind of work in the past. So rather than building something and saving it in a folder on my laptop, I thought it would be good to publish everything I make on a timeline called my &lt;a href=&quot;http://davidstelfox.github.io&quot;&gt;play portfolio&lt;/a&gt; to map my progression over the next 12 months.&lt;/p&gt;
+
+&lt;p&gt;12 months, the start of a plan, a blog and a timeline. Let’s see where this takes me.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://davidstelfox.github.io/blog/2015/11/20/Journey-Begins.html</link>
+        <guid isPermaLink="true">http://davidstelfox.github.io/blog/2015/11/20/Journey-Begins.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
