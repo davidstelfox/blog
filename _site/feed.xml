@@ -4,10 +4,10 @@
     <title>David Stelfox</title>
     <description>Blog where I am keeping track on my data visualisation journey. 
 </description>
-    <link>http://davidstelfox.github.io/blog/</link>
-    <atom:link href="http://davidstelfox.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Dec 2015 16:52:41 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Dec 2015 16:52:41 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 31 Dec 2015 17:17:51 +0000</pubDate>
+    <lastBuildDate>Thu, 31 Dec 2015 17:17:51 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -26,8 +26,8 @@
 &lt;p&gt;For me at this stage, the first point is the most important. It doesn’t matter if my code is super clean or fast, I am not writing production code, I am writing small web pages displaying charts. The harder concepts will come with time and practice, for now it is about publishing my work and learning, learning, learning. So working on this basis I made the code work; it is not clean, it might be fast but it works. Enough for now.&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 Dec 2015 00:00:00 +0000</pubDate>
-        <link>http://davidstelfox.github.io/blog/2015/12/27/Work-Clean-Fast.html</link>
-        <guid isPermaLink="true">http://davidstelfox.github.io/blog/2015/12/27/Work-Clean-Fast.html</guid>
+        <link>http://localhost:4000/2015/12/27/Work-Clean-Fast.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/27/Work-Clean-Fast.html</guid>
         
         
       </item>
@@ -46,8 +46,8 @@ actually I’m going to get found out, and when people find out, they’ll maybe
 &lt;p&gt;Afterwards thinking about this over the course of the next year this should get better. The more I learn and develop, the less this anxiety should occur, right?! Let’s see. Each time imposter syndrome strikes I will add a note to the timeline (red dot). If my idea above is correct then the dots should become less frequent or not and then, shit, it is something I am going to have to get better at dealing with as Mike goes on to speak about in the podcast.&lt;/p&gt;
 </description>
         <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
-        <link>http://davidstelfox.github.io/blog/2015/12/03/Imposter-Syndrome.html</link>
-        <guid isPermaLink="true">http://davidstelfox.github.io/blog/2015/12/03/Imposter-Syndrome.html</guid>
+        <link>http://localhost:4000/2015/12/03/Imposter-Syndrome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/03/Imposter-Syndrome.html</guid>
         
         
       </item>
@@ -75,8 +75,8 @@ without knowing how how we were going to use them.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 20 Nov 2015 00:00:00 +0000</pubDate>
-        <link>http://davidstelfox.github.io/blog/2015/11/20/Journey-Begins.html</link>
-        <guid isPermaLink="true">http://davidstelfox.github.io/blog/2015/11/20/Journey-Begins.html</guid>
+        <link>http://localhost:4000/2015/11/20/Journey-Begins.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/11/20/Journey-Begins.html</guid>
         
         
       </item>
