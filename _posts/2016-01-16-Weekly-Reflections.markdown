@@ -21,7 +21,7 @@ Nick Felton is the reason I got interested in data visualisation. I probably fir
 
 
 ###Some things I saw or read that I liked###
-[This chloreopath map of empty homes in Japan](https://yasufumisaito.github.io/emptyhouse/) by Yasufumi Saito. It's concise and tells the story it is intending to with a minimum of fuss, exactly what data journalism should do. The interactivity is nicely muted and it doesn't do anything unnecessarily for the sake of ading interactivity. However, one problem is that the map assumes knowledge of where rural Japanese areas are as this is not inherent in the colour palette. 
+[This cloropleth map of empty homes in Japan](https://yasufumisaito.github.io/emptyhouse/) by Yasufumi Saito. It's concise and tells the story it is intending to with a minimum of fuss, exactly what data journalism should do. The interactivity is nicely muted and it doesn't do anything unnecessarily for the sake of ading interactivity. However, one problem is that the map assumes knowledge of where rural Japanese areas are as this is not inherent in the colour palette. 
 
 [This Ingrid Burrington article](http://www.theatlantic.com/technology/archive/2016/01/amazon-web-services-data-center/423147/) about travelling around Virginia looking for Amazon data centres. I was fairly ignorant of the Cold War influence on the internet, this helped to add a lot of background and context.
 
