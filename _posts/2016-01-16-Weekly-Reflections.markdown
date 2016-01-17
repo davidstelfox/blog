@@ -10,7 +10,7 @@ I thought it would be a useful to track influences, activities and other bits ea
 
 In autumn 2015 I decided to get back into doing short courses. In that term I did a few which were more focused on having fun (pottery and sound art), I thought for this term it would be beneficial to do one which would help me on this project as well. Books on data visualisation often talk about having to wear multiple hats and while I have been pretty successful in teaching myself to code and do project management at work, design and design process are something I have struggled to learn. I chose this course at CSM precisely because it focused on design process and would make me sit down and design something. The brief for our first week was to design a logotype for the person sitting to our left. To my left was Masumi, a Japanese graphic designer. Here is the logotype I designed for her:
 
-![](/assets/CSM_GD_LogoType.png)
+![](/blog/assets/CSM_GD_LogoType.png)
 
 I think this course is going to be super useful, mainly to focus my attention on the importance of process and practicing that process. Also, as part of the course I get access to the CSM library so I am going to scope out information design books before every class.
 
