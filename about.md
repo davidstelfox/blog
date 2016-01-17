@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![me]({{ site.url }}/assets/me.jpg)
+![me]({{ site.url }}/blog/assets/me.jpg)
 
 
 My name is David Stelfox and I am interested in information design, especially data visualisation.
