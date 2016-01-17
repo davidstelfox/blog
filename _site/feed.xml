@@ -6,9 +6,40 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Dec 2015 17:17:51 +0000</pubDate>
-    <lastBuildDate>Thu, 31 Dec 2015 17:17:51 +0000</lastBuildDate>
+    <pubDate>Sun, 17 Jan 2016 10:19:10 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Jan 2016 10:19:10 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>2016_Week 2</title>
+        <description>&lt;p&gt;I thought it would be a useful to track influences, activities and other bits each week - a bit like a newsletter that only I am ever going to read. So here is the first of my weekly reflections:&lt;/p&gt;
+
+&lt;h3 id=&quot;i-started-a-graphic-design-course-at-central-saint-martins&quot;&gt;I started a Graphic Design course at Central Saint Martin’s&lt;/h3&gt;
+
+&lt;p&gt;In autumn 2015 I decided to get back into doing short courses. In that term I did a few which were more focused on having fun (pottery and sound art), I thought for this term it would be beneficial to do one which would help me on this project as well. Books on data visualisation often talk about having to wear multiple hats and while I have been pretty successful in teaching myself to code and do project management at work, design and design process are something I have struggled to learn. I chose this course at CSM precisely because it focused on design process and would make me sit down and design something. The brief for our first week was to design a logotype for the person sitting to our left. To my left was Masumi, a Japanese graphic designer. Here is the logotype I designed for her:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/CSM_GD_LogoType.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I think this course is going to be super useful, mainly to focus my attention on the importance of process and practicing that process. Also, as part of the course I get access to the CSM library so I am going to scope out information design books before every class.&lt;/p&gt;
+
+&lt;h3 id=&quot;i-had-a-brief-conversation-with-nick-felton-on-twitter&quot;&gt;I had a (brief) conversation with Nick Felton on Twitter&lt;/h3&gt;
+
+&lt;p&gt;Nick Felton is the reason I got interested in data visualisation. I probably first came across his annual reports when I used to spend a lot of time browsing Tumblr. I love the way he represents information and communicates through it. We had a conversation about databases and MySQL. As I work with SQL all day it makes sense to use it to do a lot of my analysis. He also introduced me to a Processing package which allows you to pull data directly from a MySQL database. I have wanted to pick up Processing for a while and now I have no excuse.&lt;/p&gt;
+
+&lt;h3 id=&quot;some-things-i-saw-or-read-that-i-liked&quot;&gt;Some things I saw or read that I liked&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://yasufumisaito.github.io/emptyhouse/&quot;&gt;This chloreopath map of empty homes in Japan&lt;/a&gt; by Yasufumi Saito. It’s concise and tells the story it is intending to with a minimum of fuss, exactly what data journalism should do. The interactivity is nicely muted and it doesn’t do anything unnecessarily for the sake of ading interactivity. However, one problem is that the map assumes knowledge of where rural Japanese areas are as this is not inherent in the colour palette.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.theatlantic.com/technology/archive/2016/01/amazon-web-services-data-center/423147/&quot;&gt;This Ingrid Burrington article&lt;/a&gt; about travelling around Virginia looking for Amazon data centres. I was fairly ignorant of the Cold War influence on the internet, this helped to add a lot of background and context.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2016/01/16/Weekly-Reflections.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/01/16/Weekly-Reflections.html</guid>
+        
+        <category>reflections</category>
+        
+        
+      </item>
     
       <item>
         <title>Make it work, make it clean, make it fast</title>
