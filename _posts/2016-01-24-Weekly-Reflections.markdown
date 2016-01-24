@@ -10,7 +10,7 @@ Quick one this week
 
 I was a bit gutted I only came across Nick Felton's Annual Reports a couple of years ago meaning I missed out on 8 years of being able to receive these amazing pieces. The colour choices, layouts and was he represents his data via chart, numbers and text I find so intriguing and beautiful. I seem to remember watching a talk he gave where he spoke about putting together a book once he had finished the project with his report. Definitely one to pre-order.  
 
-![](/blog/assets/felton.jpg)
+![](/blog/assets/felton.JPG)
 
 ###Some things I saw or read that I liked###
 [This report on whether the highest grossing films pass the Bechdel test](http://poly-graph.co/bechdel/) by Polygraph. Especially this chart:
