@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Feb 2016 20:26:42 +0000</pubDate>
-    <lastBuildDate>Sun, 07 Feb 2016 20:26:42 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Feb 2016 20:46:09 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Feb 2016 20:46:09 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -16,7 +16,7 @@
 
 &lt;h3 id=&quot;glitteringblue&quot;&gt;Glittering.Blue&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/assets/glitteringblue.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/blog/assets/glitteringBlue.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One of the things I am learning is the ability to start picking apart the pieces of interactive data visualisations and breaking it down into its component parts; this part is achieved doing this and this part using that, although how to actually do it is what I am trying to learn this year. I wouldn’t have any idea where to start with &lt;a href=&quot;https://glittering.blue/&quot;&gt;glittering.blue&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/vruba&quot;&gt;Charlie Loyd&lt;/a&gt;. This visualisation of the weather over 24 hours is well worth spending time with. Zoom out for a beautiful “blue marble” view of the visualisation.&lt;/p&gt;
 

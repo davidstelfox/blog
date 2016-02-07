@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](/assets/me.jpg)
+![](/blog/assets/me.jpg)
 
 
 My name is David Stelfox and I am interested in information design, especially data visualisation.
