@@ -6,9 +6,44 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Jan 2016 20:59:10 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Jan 2016 20:59:10 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Feb 2016 20:26:42 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Feb 2016 20:26:42 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>2016_Week 5</title>
+        <description>&lt;p&gt;Missed last week but here are a few of things I saw and read last week&lt;/p&gt;
+
+&lt;h3 id=&quot;glitteringblue&quot;&gt;Glittering.Blue&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/glitteringblue.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the things I am learning is the ability to start picking apart the pieces of interactive data visualisations and breaking it down into its component parts; this part is achieved doing this and this part using that, although how to actually do it is what I am trying to learn this year. I wouldn’t have any idea where to start with &lt;a href=&quot;https://glittering.blue/&quot;&gt;glittering.blue&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/vruba&quot;&gt;Charlie Loyd&lt;/a&gt;. This visualisation of the weather over 24 hours is well worth spending time with. Zoom out for a beautiful “blue marble” view of the visualisation.&lt;/p&gt;
+
+&lt;h3 id=&quot;bubble-map-from-berliner-morgenpost&quot;&gt;Bubble Map from Berliner Morgenpost&lt;/h3&gt;
+
+&lt;p&gt;Most pieces of data journalism make the visualisation the central piece of the work, however, the way &lt;a href=&quot;http://interaktiv.morgenpost.de/berliner-zugezogenen-atlas&quot;&gt;this piece&lt;/a&gt; by Berliner Morgenpost and &lt;a href=&quot;http://webkid.io/&quot;&gt;Webkid&lt;/a&gt; takes an interesting angle on this by making the visualisation part of the title header. It would be easy enough to read the article without using the interactivity available and seeing the map as a static piece in the header. This passive use of data visualisation isn’t something I’ve come across before.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-do-you-learn-d3js-on-medium&quot;&gt;How do you learn d3.js? on Medium&lt;/h3&gt;
+
+&lt;p&gt;I enjoyed reading &lt;a href=&quot;https://medium.com/@enjalot/how-do-you-learn-d3-js-ccffc151419b#.i9wr9o9vv&quot;&gt;this article&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/enjalot&quot;&gt;Ian Johnson&lt;/a&gt; on Medium about the approaches taken to learning d3.js. Zan Armstrong’s response struck a particular chord:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I mostly approached learning by either knowing there was something I wanted to learn and creating a project around
+it (my first website: &lt;a href=&quot;newzealand.zanarmstrong.com&quot;&gt;http://newzealand.zanarmstrong.com&lt;/a&gt;) OR trying to do something that I believed was possible and 
+figuring out what I needed to know to do it, often by creating something small to learn the key technique, and then &amp;gt;incorporating it into the bigger project.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is the approach I have been trying to take recently (especially with my last two published pieces) and it is good to know that people who are light years ahead of my skills approached learning in the same way.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2016/02/07/Weekly-Reflections.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/02/07/Weekly-Reflections.html</guid>
+        
+        <category>reflections</category>
+        
+        
+      </item>
     
       <item>
         <title>2016_Week 3</title>
