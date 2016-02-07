@@ -8,7 +8,7 @@ Missed last week but here are a few of things I saw and read last week
 
 ### Glittering.Blue ###
 
-![](/blog/assets/glittering/Blue.png)
+![](/blog/assets/glitteringBlue.png)
 
 One of the things I am learning is the ability to start picking apart the pieces of interactive data visualisations and breaking it down into its component parts; this part is achieved doing this and this part using that, although how to actually do it is what I am trying to learn this year. I wouldn't have any idea where to start with [glittering.blue](https://glittering.blue/) by [Charlie Loyd](https://twitter.com/vruba). This visualisation of the weather over 24 hours is well worth spending time with. Zoom out for a beautiful "blue marble" view of the visualisation.
 
